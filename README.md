@@ -7,13 +7,25 @@
 2. Deskripsi singkat repository (# Perjalanan belajar praktikum mulai dari sesi 1-7 sebagai bagian dari UTS Mata Kuliah Data Science)
 
 Perkenalkan nama saya Alfin Oktavian. 
-Repository ini dibuat sebagai dokumentasi proses pembelajaran dan praktikum selama mengikuti perkuliaha Data Science. 
-Seluruh materi, tugas, serta latihan yang dikerjakan dari sesi 1 hingga sesi 7 disimpan dalam repository ini sebagai bentuk implementasi konsep-konsep yang telah dipelajari selama perkuliahan.
-Melalui praktikum ini, saya mempelajari berbagai topik dasar dalam Data Science, mulai dari pengenalan Python untuk meng-analisis data, penggunaan library seperti Pandas dan NumPy, 
-pengolahan serta pembersihan data, visualisasi data menggunakan Matplotlib dan Seaborn, hingga penerapan teknik analisis data sederhana untuk memperoleh informasi yang bermanfaat dari suatu dataset.
-Repository ini juga menjadi sarana untuk mendokumentasikan perkembangan pemahaman dan keterampilan saya dalam bidang Data Science selama satu semester perkuliahan.
 
-Tujuan: Menjadi portofolio pembelajaran yang menunjukkan perkembangan pemahaman dan keterampilan di bidang Data Science.
+Repository ini dibuat sebagai dokumentasi proses pembelajaran dan praktikum selama mengikuti perkuliaha Data Science. 
+
+Seluruh materi, tugas, serta latihan yang dikerjakan dari sesi 1 hingga sesi 7 disimpan dalam repository ini sebagai bentuk     
+
+implementasi konsep-konsep yang telah dipelajari selama perkuliahan.
+
+Melalui praktikum ini, saya mempelajari berbagai topik dasar dalam Data Science, mulai dari pengenalan Python untuk meng-analisis data, 
+
+penggunaan library seperti Pandas dan NumPy, 
+
+pengolahan serta pembersihan data, visualisasi data menggunakan Matplotlib dan Seaborn, hingga penerapan teknik analisis data sederhana 
+
+untuk memperoleh informasi yang bermanfaat dari suatu dataset.
+
+Repository ini juga menjadi sarana untuk mendokumentasikan perkembangan pemahaman dan keterampilan saya dalam bidang Data Science 
+selama satu semester perkuliahan.
+
+Tujuan: Menjadikan portofolio pembelajaran yang menunjukkan perkembangan pemahaman dan keterampilan di bidang Data Science.
 
 ---
 
