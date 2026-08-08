@@ -51,6 +51,21 @@ Tujuan: Menjadikan portofolio pembelajaran yang menunjukkan perkembangan pemaham
 
    - Pertemuan 7 (Evaluasi Model)
      Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan7_Alfin_Oktavian_240401010282.ipynb
+  
+   - Pertemuan 9 (Algoritma Klasifikasi: Logistic Regression dan Decision Tree)
+     Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan9_AlfinOktavian_240401010282.ipynb
+  
+   - Pertemuan 10 (Random Forest dan Imbalanced Dataset - Customer Churn)
+     Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan10_AlfinOktavian_240401010282.ipynb
+  
+   - Pertemuan 11 (K-Means dan Hierarchical Clustering)
+     Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan11_Alfin_Oktavian_240401010282.ipynb
+  
+   - Pertemuan 12 (Association Rule Mining Apriori dan Content-Based Recommendation)
+     Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan12_AlfinOktavian_240401010282.ipynb
+  
+   - Pertemuan 13 (Neural Network dan Klasifikasi Sentimen dengan TF-IDF)
+     Link: https://github.com/alfinoktviaan/data-science-2026/blob/main/Pertemuan13_AlfinOktavian_240401010282.ipynb
 
      ---
 
@@ -71,15 +86,11 @@ Tujuan: Menjadikan portofolio pembelajaran yang menunjukkan perkembangan pemaham
 
   6. Kesimpulan
 
-Selama tujuh pertemuan praktikum Data Science, saya mempelajari berbagai macam konsep dan keterampilan dasar yang digunakan dalam proses analisis data. 
+Selama Pertemuan 1 hingga 13, saya mempelajari alur pembelajaran Data Science secara bertahap, mulai dari pengenalan Data Science dan Python, penggunaan NumPy dan Pandas, data cleaning, statistik dasar, visualisasi, hingga penerapan machine learning dan evaluasi model.
 
-Pembelajaran dimulai dari pengenalan Data Science dan penggunaan Python sebagaimana bahasa pemrograman utama untuk mengolah data. 
+Pada tahap klasifikasi, saya mempelajari Logistic Regression, Decision Tree, dan Random Forest. Saya juga memahami pentingnya pemilihan metrik evaluasi seperti Accuracy, Precision, Recall, dan F1-Score, terutama pada dataset yang imbalanced seperti customer churn, di mana Accuracy saja dapat memberikan gambaran yang menyesatkan.
 
-Selanjutnya, saya juga mempelajari cara penggunaan library seperti NumPy dan Pandas untuk membaca, memanipulasi, serta mengelola dataset agar efisien.
+Selanjutnya, saya mempelajari pendekatan unsupervised learning melalui K-Means dan Hierarchical Clustering untuk melakukan segmentasi data. Saya juga mempelajari Association Rule Mining menggunakan Apriori untuk menemukan hubungan antarproduk serta Content-Based Recommendation menggunakan Cosine Similarity.
 
-Selain itu, saya juga mempelajari teknik pembersihan dan persiapan data (data preprocessing), termasuk penanganan missing value, data duplikat, dan transformasi data agar siap dianalisis. Untuk memahami karakteristik data, saya menggunakan berbagai metode statistik deskriptif dan visualisasi data dengan bantuan Matplotlib dan Seaborn.
-
-Pada tahap berikutnya, saya menerapkan proses eksplorasi data (Exploratory Data Analysis/EDA) untuk menemukan pola, tren, dan informasi penting dari sebuah dataset yang digunakan. 
-
-Seluruh materi tersebut memberikan saya pemahaman mengenai alur kerja Data Science, mulai dari pengumpulan dan pengolahan data hingga analisis dan interpretasi hasil untuk mendukung pengambilan keputusan berdasarkan data.
+Pada pertemuan terakhir, pembelajaran berkembang ke Neural Network untuk menangani pola data non-linear serta klasifikasi teks menggunakan TF-IDF dan Logistic Regression. Secara keseluruhan, rangkaian Pertemuan 1-13 memberikan pemahaman mengenai proses Data Science secara lebih lengkap, mulai dari pengolahan dan eksplorasi data, pemodelan, evaluasi, pencarian pola, hingga penerapan machine learning untuk menghasilkan informasi dan prediksi yang dapat digunakan sebagai dasar pengambilan keputusan.
      
